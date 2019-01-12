@@ -1,0 +1,86 @@
+AccessionNumber : 
+BitsAllocated : 8
+BitsStored : 8
+CineRate : 31
+Columns : 1024
+ContentDate : 20110824
+ContentTime : 111522.214743816
+DeviceSerialNumber : 0
+EffectiveDuration : 1.18271
+FrameIncrementPointer : (0018, 1063)
+FrameTime : 31.9652
+HighBit : 7
+ImageComments : 
+ImageType : ['', 'SECONDARY', 'INTRAOPERATIVE']
+InstanceNumber : 1
+InstitutionAddress : Hospital Address or Department
+InstitutionName : Hospital Name
+Laterality : 
+LossyImageCompression : 00
+Manufacturer : Medistim
+ManufacturerModelName : VeriQ C
+Modality : US
+NumberOfFrames : 37
+PatientBirthDate : 
+PatientComments : See case report on www.medistim.com
+PatientID : Case Report 1
+PatientName : Femoral trombenarterectomy^Case Report:
+PatientOrientation : 
+PatientSex : M
+PatientSize : 0
+PatientWeight : 0
+PerformingPhysicianName : CA Prof. Debus
+PhotometricInterpretation : RGB
+PixelData : 
+PixelRepresentation : 0
+PlanarConfiguration : 0
+PreferredPlaybackSequencing : 0
+RecommendedDisplayFrameRate : 31
+ReferringPhysicianName : 
+Rows : 768
+SOPClassUID : 1.2.840.10008.5.1.4.1.1.3.1
+SOPInstanceUID : 2.16.840.1.114488.0.4.123489834087.1330071426.3
+SamplesPerPixel : 3
+SequenceOfUltrasoundRegions : 
+PhysicalDeltaX - 0.002774281461757642
+PhysicalDeltaY - 0.002774281461757642
+PhysicalUnitsXDirection - 3
+PhysicalUnitsYDirection - 3
+ReferencePixelPhysicalValueX - 0.0
+ReferencePixelPhysicalValueY - 0.0
+ReferencePixelX0 - 512
+ReferencePixelY0 - 28
+RegionDataType - 1
+RegionFlags - 2
+RegionLocationMaxX1 - 944
+RegionLocationMaxY1 - 568
+RegionLocationMinX0 - 80
+RegionLocationMinY0 - 28
+RegionSpatialFormat - 1
+PhysicalDeltaX - 0.0056179775280898875
+PhysicalDeltaY - -0.05128205128205128
+PhysicalUnitsXDirection - 4
+PhysicalUnitsYDirection - 0
+ReferencePixelPhysicalValueX - 0.0
+ReferencePixelPhysicalValueY - 0.0
+ReferencePixelX0 - 86
+ReferencePixelY0 - 742
+RegionDataType - 10
+RegionFlags - 2
+RegionLocationMaxX1 - 976
+RegionLocationMaxY1 - 762
+RegionLocationMinX0 - 86
+RegionLocationMinY0 - 645
+RegionSpatialFormat - 4
+SeriesDate : 20110824
+SeriesInstanceUID : 2.16.840.1.114488.0.4.123489834087.1330071425.1
+SeriesNumber : 1
+SeriesTime : 094836.214743984
+SoftwareVersions : 3.3.0 RC0 built 02/23/12  09:50:45
+SpecificCharacterSet : ISO_IR 100
+StationName : VERIQ
+StudyDate : 20110824
+StudyDescription : 
+StudyID : 
+StudyInstanceUID : 2.16.840.1.114488.0.4.123489834087.1330071425.0
+StudyTime : 094836.214743984
