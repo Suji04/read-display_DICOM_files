@@ -1,11 +1,11 @@
 import pydicom
 
-read_file = 'ttfm.dcm' # or 'ttfm.dcm'
+read_file = 'bmode.dcm' # or 'ttfm.dcm'
 
 ds = pydicom.read_file(read_file)
 tag_names = ds.dir()
 
-write_file = 'display_TTFM.txt' # or 'display_TTFM.txt'
+write_file = 'display_BMode.txt' # or 'display_TTFM.txt'
 
 with open(write_file,'w') as f:
     for tag in tag_names:
